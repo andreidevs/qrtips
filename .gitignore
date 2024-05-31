@@ -1,0 +1,10 @@
+*.log
+.idea
+.vscode
+dist-*
+dist
+.DS_Store
+node_modules/
+package-lock.json
+cert.pem
+key.pem
